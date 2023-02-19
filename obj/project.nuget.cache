@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KV1/v23YDPK8Y5BbeDmR3GPHwnX3S2SKXoK3quAzEEvBu/5duAik+o/Rnag3uaCib1sIgcTJ1mHuFkj8B9oBBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\source\\repos\\AudioResampler\\AudioResampler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\nwaves\\0.9.6\\nwaves.0.9.6.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
