@@ -9,7 +9,7 @@ WriteLine("AudioResampler makes iterative sample processing easier.");
 
 
 
-string sample= "C:\\Users\\samue\\Documents\\Rack2\\recordings\\SampleForResample.wav";
+string sample= $"C:\\Users\\samue\\source\\repos\\AudioResampler\\Samples\\SampleForResample.wav";
 
 
 WaveFile waveFileImport;
